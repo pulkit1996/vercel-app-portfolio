@@ -14,15 +14,15 @@ const Experience = () => {
   const techs = [
     {
       id: 1,
-      src: html,
-      title: "HTML",
-      style: "shadow-orange-500",
+      src: java,
+      title: "Core Java",
+      style: "shadow-red-600",
     },
     {
       id: 2,
-      src: css,
-      title: "CSS",
-      style: "shadow-blue-500",
+      src: angular,
+      title: "Angular",
+      style: "shadow-red-600",
     },
     {
       id: 3,
@@ -32,21 +32,21 @@ const Experience = () => {
     },
     {
       id: 4,
-      src: angular,
-      title: "Angular",
-      style: "shadow-red-600",
+      src: html,
+      title: "HTML",
+      style: "shadow-orange-500",
     },
     {
       id: 5,
-      src: java,
-      title: "Core Java",
-      style: "shadow-red-600",
-    },
+      src: css,
+      title: "CSS",
+      style: "shadow-blue-500",
+    },    
     {
       id: 6,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
+      src: github,
+      title: "GitHub",
+      style: "shadow-gray-400",
     },
     {
       id: 7,
@@ -62,10 +62,10 @@ const Experience = () => {
     },
     {
       id: 9,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
-    }
+      src: tailwind,
+      title: "Tailwind",
+      style: "shadow-sky-400",
+    }    
   ];
 
   return (

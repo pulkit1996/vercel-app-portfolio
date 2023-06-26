@@ -45,7 +45,7 @@ const Home = () => {
             I'm a <span ref={el}></span>
           </h2>
           <p className="text-gray-500 py-4 max-w-4xl">
-           s<br></br>
+           <br></br>
             Seeking a challenging position where I can
             wear multiple hats, work collaboratively in a team environment, and
             contribute to the development of internal products or projects.I am

@@ -8,6 +8,7 @@ import ionic from "../assets/ionic.png";
 import VSCode from "../assets/VSCode.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import java from "../assets/java.jpg";
 
 const Experience = () => {
   const techs = [
@@ -37,28 +38,34 @@ const Experience = () => {
     },
     {
       id: 5,
+      src: java,
+      title: "Core Java",
+      style: "shadow-red-600",
+    },
+    {
+      id: 6,
       src: tailwind,
       title: "Tailwind",
       style: "shadow-sky-400",
     },
     {
-      id: 6,
+      id: 7,
       src: ionic,
       title: "Ionic",
       style: "shadow-white",
     },
     {
-      id: 7,
+      id: 8,
       src: VSCode,
       title: "Visual Studio Code",
       style: "shadow-blue-400",
     },
     {
-      id: 8,
+      id: 9,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
-    },
+    }
   ];
 
   return (

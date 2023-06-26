@@ -28,7 +28,17 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          As a UI/UX designer, I'm passionate about creating visually appealing
+          An IT professional with MSc in Information Systems Management from
+          NUIG with 3 years of professional experience as a front-end developer
+          with exceptional skills in API Software Development and Agile
+          Methodology. Highly skilled and motivated software engineer with a
+          passion for experimenting with the latest technologies.
+        </p>
+
+        <br />
+
+        <p className="text-xl">
+          As a web developer, I'm passionate about creating visually appealing
           and user-friendly web pages and applications. I believe that a
           seamless and intuitive user experience is crucial in ensuring the
           success of any digital product. Through my expertise in user research,
@@ -39,7 +49,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          With my combined expertise in UI/UX design and front-end development,
+          With my combined expertise in front-end development and UI/UX design,
           I am dedicated to creating exceptional digital experiences that not
           only meet business objectives, but also bring joy and value to users.
           I am always eager to stay updated with the latest industry trends and

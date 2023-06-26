@@ -10,7 +10,7 @@ const Home = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["Front End Developer", "UI/UX Designer", "Web Developer"], // Strings to display
+      strings: ["Programmer","Software Developer","Front End Developer", "UI/UX Designer", "Web Developer"], // Strings to display
       // Speed settings, try diffrent values untill you get good results
       startDelay: 300,
       typeSpeed: 100,
@@ -39,7 +39,9 @@ const Home = () => {
             I'm a <span ref={el}></span>
           </h2>
           <p className="text-gray-500 py-4 max-w-4xl">
-          A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product.
+            Seasoned UI/UX developer with a passion for creating intuitive and
+            user-centered experiences. I craft beautiful, functional, and
+            user-friendly interfaces that make people want to use your product
           </p>
 
           <div>

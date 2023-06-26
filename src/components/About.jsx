@@ -28,6 +28,17 @@ const About = () => {
         <br />
 
         <p className="text-xl">
+          Hello there! I'm a passionate software developer dedicated to crafting
+          elegant and efficient solutions. With a deep love for coding and
+          problem-solving, I thrive on the excitement of turning complex
+          challenges into innovative software solutions. My journey in the world
+          of programming began years ago, and since then, I've honed my skills
+          in various languages and frameworks.
+        </p>
+
+        <br />
+
+        <p className="text-xl">
           An IT professional with MSc in Information Systems Management from
           NUIG with 3 years of professional experience as a front-end developer
           with exceptional skills in API Software Development and Agile
@@ -38,23 +49,20 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-          As a web developer, I'm passionate about creating visually appealing
-          and user-friendly web pages and applications. I believe that a
-          seamless and intuitive user experience is crucial in ensuring the
-          success of any digital product. Through my expertise in user research,
-          wireframing, prototyping, and visual design, I strive to create
-          engaging and accessible interfaces that delight users.
+          I'm passionate about creating visually appealing and user-friendly web
+          pages and applications. I believe that a seamless and intuitive user
+          experience is crucial in ensuring the success of any digital product.
+          Through my expertise in user research, wireframing, prototyping, and
+          visual design, I strive to create engaging and accessible interfaces
+          that delight users.
         </p>
 
         <br />
 
         <p className="text-xl">
-          With my combined expertise in front-end development and UI/UX design,
-          I am dedicated to creating exceptional digital experiences that not
-          only meet business objectives, but also bring joy and value to users.
-          I am always eager to stay updated with the latest industry trends and
-          technologies, and I am excited to continue honing my skills to create
-          innovative and user-centric web solutions.
+          I am excited about the endless possibilities that software development
+          offers, and I look forward to collaborating on challenging projects,
+          pushing boundaries, and making a positive impact through technology.
         </p>
       </div>
     </div>
